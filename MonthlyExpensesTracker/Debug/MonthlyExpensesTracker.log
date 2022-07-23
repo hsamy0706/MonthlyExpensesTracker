@@ -1,0 +1,10 @@
+﻿  Datafiles.cpp
+  Home.cpp
+  IncomeAndExpense.cpp
+D:\projects\MonthlyExpensesTracker\MonthlyExpensesTracker\IncomeAndExpense.cpp(336,21): warning C4018: '<': signed/unsigned mismatch
+D:\projects\MonthlyExpensesTracker\MonthlyExpensesTracker\IncomeAndExpense.cpp(340,22): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Wallets.cpp
+  Generating Code...
+D:\projects\MonthlyExpensesTracker\MonthlyExpensesTracker\Wallets.cpp(50): warning C4715: 'Wallets::changeBalance': not all control paths return a value
+  MonthlyExpensesTracker.vcxproj -> D:\projects\MonthlyExpensesTracker\Debug\MonthlyExpensesTracker.exe

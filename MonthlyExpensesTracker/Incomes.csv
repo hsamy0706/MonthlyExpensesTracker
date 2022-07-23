@@ -1,0 +1,10 @@
+﻿Date,Amount,Note,Category,Wallet
+12/3/2021,1000,nothing,salary,cash
+4/12/2021,2000,nothing,rent,cash
+5/12/2021,1000,nothig,rent,credit card
+2/2/2020,10,nothing,rent,debit card
+2/2/2020,3000,nothing,salary,debit card
+5/6/2021,20,nothing,huda,debit card
+2/2/2022,1000,nothing,salary,huda cash
+2/2/2020,10,nope,null,huda cash
+4/5/2021,70000,no,salary,alahly card
